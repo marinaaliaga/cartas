@@ -23,7 +23,7 @@ class Juego:
         if manoJugador.valor ==21:
             print ("ENHORABUENA")
         elif manoJugador. valor <21:
-            print("No has llrgado a 21")
+            print("No has llegado a 21")
         else:
             print("Te has pasado")
 
